@@ -17,7 +17,7 @@
 
 Olá! Eu sou **Guilherme Vilela**, estudante de **Engenharia de Software** e apaixonado por tecnologia.
 
-Atualmente estou desenvolvendo minhas habilidades em programação na FIAP,onde venho tentando aprender cada dia mais sobre esse mundo vasto da tecnologia e cada vez mais tentando aperfeiçoar minhas habilidades.
+Atualmente estou desenvolvendo minhas habilidades em programação na FIAP, onde venho tentando aprender cada dia mais sobre esse mundo vasto da tecnologia e cada vez mais tentando aperfeiçoar minhas habilidades.
 
 🎯 Meu objetivo é evoluir constantemente e me tornar um Desenvolvedor Full Stack, se preparando para o mercado de desenvolvimento de software onde tenho um enorme interesse.
 
