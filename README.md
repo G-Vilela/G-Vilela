@@ -5,9 +5,8 @@
 ### Estudante de Engenharia de Software | Desenvolvedor em formação
 
 <p>
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-00E5FF?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-000000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Desenvolvimento%20Web-111111?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Brasil-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
 
 </div>
